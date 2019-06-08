@@ -2,8 +2,12 @@
   "name": "fiona",
   "displayName": "Fiona",
   "description": "like Friday",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "lisnb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisnb/vscode-fiona.git"
+  },
   "engines": {
     "vscode": "^1.35.0"
   },
